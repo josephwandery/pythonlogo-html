@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Exercise Title</title>
+  </head>
+  <body>
+    <h1>Welcome to my website</h1>
+
+    <p>iam excited to eventually learn django</p>
+    <a href="https://www.djangoproject.com/">Here is the official Django Website</a>
+
+    <h2>Here is a picture of python logo</h2>
+    <ol>
+      <img src="python logo.png" alt="">
+    </ol>
+    <h3>Here are three reasons why Django is cool:</h3>
+      <ol>
+        <li>Very scalable </li>
+        <li>Safe and secure</li>
+        <li>Easy to use</li>
+      </ol>
+
+
+    <h1><u>End of Script</u></h1>
+
+
+  </body>
+</html>
